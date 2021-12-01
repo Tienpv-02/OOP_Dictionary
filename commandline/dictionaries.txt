@@ -1,0 +1,703 @@
+abandon	bỏ, từ bỏ
+ability	khả năng, năng lực
+able	có năng lực
+about	khoảng, về
+abroad	ở, ra nước ngoài
+absence	sự vắng mặt
+absolute	tuyệt đối,hoàn toàn
+across	qua, ngang qua
+act	hành động, hành vi, cử chỉ, đối xử
+action	hành động, hành vi, tác động
+active	tích cực hoạt động, nhanh nhẹn
+actor	diễn viên
+actual	thực tế
+actually	hiện nay, hiện tại
+adapt	tra, lắp vào
+add	cộng, thêm vào
+addition	tính cộng, phép cộng
+additional	thêm vào, tăng thêm
+address	địa chỉ, đề địa chỉ
+adequate	đầy, đầy đủ
+adequately	tương xứng, thỏa đáng
+adjust	sửa lại cho đúng, điều chỉnh
+admiration	sự khâm phục
+adopt	nhận làm con nuôi, bố mẹ nuôi
+bathroom	buồng tắm
+battery	pin, ắc quy
+battle	trận đánh, chiến thuật
+be going to	sắp sửa, có ý định
+beach	bãi biển
+beak	mỏ chim
+bear	mang, cầm, vác, đeo, ôm
+beard	râu
+beat	tiếng đập, sự đập; đánh đập, đấm
+beautiful	đẹp
+beautifully	tốt đẹp, đáng hài lòng
+beauty	vẻ đẹp, cái đẹp; người đẹp
+because	bởi vì, vì
+because of	vì, do bởi
+become	trở thành, trở nên
+bedroom	phòng ngủ
+beef	thịt bò
+beer	rượu bia
+before	trước, đằng trước
+begin	bắt đầu, khởi đầu
+beginning	phần đầu, lúc bắt đầu, lúc khởi đầu
+behalf	sự thay mặt
+behave	đối xử, ăn ở, cư xử
+behind	sau, ở đằng sau
+belief	lòng tin, đức tin, sự tin tưởng
+believe	tin, tin tưởng
+belong	thuộc về, của, thuộc quyền sở hữu
+below	ở dưới, dưới thấp, phía dưới
+bend	chỗ rẽ, chỗ uốn; khuỷu tay; cúi xuống, uốn cong
+beneath	ở dưới, dưới thấp
+benefit	lợi, lợi ích; giúp ích, làm lợi cho
+bent	khiếu, sở thích, khuynh hướng
+beside	bên cạnh, so với
+bet	đánh cuộc, cá cược; sự đánh cuộc
+bird	con chim
+cat	con mèo
+chicken	gà, gà con, thịt gà
+chief	trọng yếu, chính yếu; thủ lĩnh, lãnh tụ, người đứng đầu, xếp
+child	đứa bé, đứa trẻ
+chin	cằm
+chip	vỏ bào, mảnh vỡ, chỗ sứt, mẻ
+chocolate	sô cô la
+choice	sự lựa chọn
+choose	chọn, lựa chọn
+chop	chặt, đốn, chẻ
+church	nhà thờ
+cigarette	điếu thuốc lá
+cinema	rạp xi nê, rạp chiếu bóng
+circle	đường tròn, hình tròn
+circumstance	hoàn cảnh, trường hợp, tình huống
+citizen	người thành thị
+city	thành phố
+civil	công dân
+claim	đòi hỏi, yêu sách; sự đòi hỏi, sự yêu sách, sự thỉnh cầu
+clap	vỗ, vỗ tay; tiếng nổ, tiếng vỗ tay
+class	lớp học
+classic	cổ điển, kinh điển
+classroom	lớp học, phòng học
+clean	sạch, sạch sẽ;
+clear	lau chùi, quét dọn
+clearly	rõ ràng, sáng sủa
+clerk	thư ký, linh mục, mục sư
+clever	lanh lợi, thông minh. tài giỏi, khéo léo
+click	làm thành tiếng lách cách; tiếng lách cách, cú nhắp (chuột)
+client	khách hàng
+climate	khí hậu, thời tiết
+climb	leo, trèo
+climbing	sự leo trèo
+clock	đồng hồ
+close	đóng kín, chật chội, che đậy
+close	đóng, khép, kết thúc, chấm dứt
+closed	bảo thủ, không cởi mở, khép kín
+closely	chặt chẽ, kỹ lưỡng, tỉ mỉ
+closet	buồng, phòng để đồ, phòng kho
+cloth	vải, khăn trải bàn, áo thầy tu
+clothes	quần áo
+community	dân chúng, nhân dân
+company	công ty
+compare	so sánh, đối chiếu
+comparison	sự so sánh
+compete	đua tranh, ganh đua, cạnh tranh
+competition	sự cạnh tranh, cuộc thi, cuộc thi đấu
+competitive	cạnh tranh, đua tranh
+complain	phàn nàn, kêu ca
+complaint	lời than phiền, than thở; sự khiếu nại, đơn kiện
+complete	hoàn thành, xong;
+completely	hoàn thành, đầy đủ, trọn vẹn
+complex	phức tạp, rắc rối
+complicate	làm phức tạp, rắc rối
+complicated	phức tạp, rắc rối
+computer	máy tính
+concentrate	tập trung
+concentration	sự tập trung, nơi tập trung
+concept	khái niệm
+concern	liên quan, dính líu tới; sự liên quan, sự dính líu tới
+concerned	có liên quan, có dính líu
+concerning	bâng khuâng, ái ngại
+concert	buổi hòa nhạc
+conclude	kết luận, kết thúc, chấm dứt (công việc)
+conclusion	sự kết thúc, sự kết luận, phần kết luận
+concrete	bằng bê tông; bê tông
+condition	điều kiện, tình cảnh, tình thế
+conduct	điều khiển, chỉ đạo, chỉ huy; sự điều khiển, chỉ huy
+conference	hội nghị, sự bàn bạc
+confidence	lòng tin tưởng, sự tin cậy
+confident	tin tưởng, tin cậy, tự tin
+confidently	tự tin
+confine	giam giữ, hạn chế
+confined	hạn chế, giới hạn
+confirm	xác nhận, chứng thực
+conflict	xung đột, va chạm; sự xung đột, sự va chạm
+confront	đối mặt, đối diện, đối chiếu
+confuse	làm lộn xộn, xáo trộn
+defend	che chở, bảo vệ, bào chữa
+define	định nghĩa
+definite	xác định, định rõ, rõ ràng
+definitely	rạch ròi, dứt khoát
+definition	sự định nghĩa, lời định nghĩa
+degree	mức độ, trình độ; bằng cấp; độ
+delay	sự chậm trễ, sự trì hoãn, sự cản trở; làm chậm trễ
+deliberate	thận trọng, có tính toán, chủ tâm, có suy nghĩ cân nhắc
+deliberately	thận trọng, có suy nghĩ cân nhắc
+delicate	thanh nhã, thanh tú, tế nhị, khó xử
+delight	sự vui thích, sự vui sướng, điều thích thú; làm vui thích, làm say mê
+delighted	vui mừng, hài lòng
+deliver	cứu khỏi, thoát khỏi, bày tỏ, giãi bày
+delivery	sự phân phát, sự phân phối, sự giao hàng; sự bày tỏ, phát biếu
+demand	sự đòi hỏi, sự yêu cầu; đòi hỏi, yêu cầu
+demonstrate	chứng minh, giải thích; bày tỏ, biểu lộ
+dentist	nha sĩ
+deny	từ chối, phản đối, phủ nhận
+department	cục, sở, ty, ban, khoa; gian hàng, khu bày hàng
+departure	sự rời khỏi, sự đi, sự khởi hành
+depend	phụ thuộc, tùy thuộc; dựa vào, ỷ vào, trông mong vào
+deposit	vật gửi, tiền gửi, tiền đặt cọc; gửi, đặt cọc
+depress	làm chán nản, làm phiền muộn; làm suy giảm
+dog	con chó
+effect	hiệu ứng, hiệu quả, kết quả
+effective	có kết quả, có hiệu lực
+effectively	có kết quả, có hiệu lực
+efficient	có hiệu lực, có hiệu quả
+efficiently	có hiệu quả, hiệu nghiệm
+effort	sự cố gắng, sự nỗ lực
+egg	trứng
+either	mỗi, một; cũng phải thế
+elbow	khuỷu tay
+elderly	có tuổi, cao tuổi
+elect	bầu, quyết định
+election	sự bầu cử, cuộc tuyển cử
+electric	(thuộc) điện, có điện, phát điện
+electrical	(thuộc) điện
+electricity	điện, điện lực; điện lực học
+electronic	(thuộc) điện tử
+elegant	thanh lịch, tao nhã
+element	yếu tôd, nguyên tố
+elevator	máy nâng, thang máy
+else	khác, nữa; nếu không
+elsewhere	ở một nơi nào khác
+email	thư điện tử; gửi thư điện tử
+embarrass	lúng túng, làm ngượng nghịu; làm rắc rối, gây khó khăn
+embarrassed	lúng túng, bối rối, ngượng; mang nợ
+embarrassing	làm lúng túng, ngăn trở
+embarrassment	sự lúng túng, sự bối rối
+emerge	nổi lên, hiện ra; nổi bật lên
+emergency	tình trạng khẩn cấp
+emotion	sự xúc động, sự cảm động, mối xác cảm
+emotional	cảm động, xúc động, xúc cảm; dễ cảm động, dễ xúc cảm
+emotionally	xúc động
+emphasis	sự nhấn mạnh, tầm quan trọng
+emphasize	nhấn mạnh, làm nổi bật
+empire	đế chế, đế quốc
+employ	dùng, thuê ai làm gì
+employee	người lao động, người làm công
+extension	sự giơ, duỗi; sự kéo dài, sự dành cho, gửi lời
+extensive	rộng rãi, bao quát
+extent	quy mô, phạm vi
+extra	thêm, phụ, ngoại; thứ thêm, phụ
+extraordinary	đặc biệt, lạ thường, khác thường
+extreme	vô cùng, khắc nghiệt, quá khích, cực đoan; sự quá khích
+extremely	vô cùng, cực độ
+eye	mắt
+face	mặt, thể diện; đương đầu, đối phó, đối mặt
+facility	điều kiện dễ dàng, sự dễ dàng, thuận lợi
+fact	việc, sự việc, sự kiện
+factor	nhân tố
+factory	nhà máy, xí nghiệp, xưởng
+failure	sự thất bại, người thất bại
+faint	nhút nhát, yếu ớt
+faintly	nhút nhát, yếu ớt
+fair	hợp lý, công bằng; thuận lợi
+fairly	hợp lý, công bằng
+faith	sự tin tưởng, tin cậy; niềm tin, vật đảm bảo
+faithful	trung thành, chung thủy, trung thực
+faithfully	trung thành, chung thủy, trung thực
+fall	rơi, ngã, sự rơi, ngã
+fall over	ngã lộn nhào, bị đổ
+false	sai, nhầm, giả dối
+fame	tên tuổi, danh tiếng
+familiar	thân thiết, quen thộc
+family	gia đình, thuộc gia đình
+famous	nổi tiếng
+fan	người hâm mộ
+fancy	tưởng tượng, cho, nghĩ rằng; tưởng tượng
+far	xa
+farm	trang trại
+fundamental	cơ bản, cơ sở, chủ yếu
+funeral	lễ tang, đám tang
+funny	buồn cười, khôi hài
+fur	bộ da lông thú
+furniture	đồ đạc (trong nhà)
+further	xa hơn nữa; thêm nữa
+future	tương lai
+gain	lợi, lợi ích; giành được, kiếm được, đạt tới
+gallon	galông 1gl = 4, 54 lít ở anh, 3, 78 lít ở mỹ
+gamble	đánh bạc; cuộc đánh bạc
+gambling	trò cờ bạc
+game	trò chơi
+gap	đèo, lỗ hổng, kẽ hở; chỗ trống
+garage	nhà để ô tô
+garbage	lòng, ruột (thú)
+garden	vườn
+gas	khí, hơi đốt
+gasoline	dầu lửa, dầu hỏa, xăng
+gift	quà tặng
+girl	con gái
+girlfriend	bạn gái, người yêu
+give	cho, biếu, tặng
+give up	bỏ, từ bỏ
+glad	vui lòng, sung sướng
+glass	kính, thủy tinh, cái cốc, ly
+glasses	kính đeo mắt
+global	toàn cầu, toàn thể, toàn bộ
+glove	bao tay, găng tay
+glue	keo, hồ; gắn lại, dán bằng keo, hồ
+go	đi
+go down	đi xuống
+go up	đi lên
+god	thần, chúa
+gram	đậu xanh
+handle	cầm, sờ mó; tay cầm, móc quai
+hang	treo, mắc
+happen	xảy ra, xảy đến
+happily	sung sướng, hạnh phúc
+happiness	sự sung sướng, hạnh phúc
+happy	vui sướng, hạnh phúc
+hard	cứng, rắn, hà khắc; hết sức cố gắng, tích cực
+hardly	khắc nghiệt, nghiêm khắc, tàn tệ, khó khăn
+harm	thiệt hại, tổn hao; làm hại, gây thiệt hại
+harmful	gây tai hại, có hại
+harmless	không có hại
+hat	cái mũ
+hate	ghét; lòng căm ghét, thù hận
+hot	nóng, nóng bức
+hotel	khách sạn
+hour	giờ
+house	nhà, căn nhà, toàn nhà
+household	hộ, gia đình; (thuộc) gia đình
+housing	nơi ăn chốn ở
+how	thế nào, như thế nào, làm sao, ra sao
+however	tuy nhiên, tuy vậy, dù thế nào
+huge	to lớn, khổng lồ
+human	con người, loài người
+humorous	hài hước, hóm hỉnh
+humour	sự hài hước, sự hóm hỉnh
+hungry	đói
+hunt	săn, đi săn
+hunting	sự đi săn
+hurry	sự vội vàng, sự gấp rút
+hurt	làm bị thương, gây thiệt hại
+husband	người chồng
+ice	băng, nước đá
+ice cream	kem
+idea	ý tưởng, quan niệm
+import	sự nhập, sự nhập khẩu; nhập, nhập khẩu
+importance	sự quan trọng, tầm quan trọng
+important	quan trọng, hệ trọng
+importantly	quan trọng, trọng yếu
+impose	bắt gánh vác; đánh tráo, lợi dụng
+impossible	không thể làm được, không thể xảy ra
+impress	ghi, khắc, in sâu vào; gây ấn tượng, làm cảm động
+impressed	được ghi, khắc, in sâu vào
+impression	ấn tượng, cảm giác; sự in, đóng dấu
+impressive	gấy ấn tượng mạnh; hùng vĩ, oai vệ
+improve	cải thiện, cái tiến, mở mang
+improvement	sự cái thiện, sự cải tiến, sự mở mang
+in a hurry	vội vàng, hối hả, gấp rút
+inability	sự bất lực, bất tài
+inch	đơn vị đo chiều dài anh bằng 2, 54 cm
+iron	bọc sắt
+irritate	làm phát cáu, chọc tức
+irritated	tức giận, cáu tiết
+irritating	làm phát cáu, chọc tức
+island	hòn đảo
+issue	sự phát ra, sự phát sinh; phát hành, đưa ra
+it	cái đó, điều đó, con vật đó
+item	khoản, món, tiết mục
+its	của cái đó, của điều đó, của con vật đó; cái của điều đó, cái của con vật đó
+jacket	áo vét
+jam	mứt
+january	tháng giêng
+jealous	ghen, ghen tị
+jeans	quần bò, quần zin
+jelly	thạch
+jewellery	nữ trang, kim hoàn
+job	việc, việc làm
+join	gia nhập, tham gia; nối, chắp, ghép
+joke	trò cười, lời nói đùa; nói đùa, giễu cợt
+journalist	nhà báo
+journey	cuộc hành trình (đường bộ); quãng đường, chặng đường đi
+joy	niềm vui, sự vui mừng
+keep	giữ, giữ lại
+key	chìa khóa, khóa, thuộc (khóa)
+keyboard	bàn phím
+kick	đá; cú đá
+kill	giết, tiêu diệt
+killing	sự giết chóc, sự tàn sát
+kind	loại, giống; tử tế, có lòng tốt
+kindly	tử tế, tốt bụng
+kindness	sự tử tế, lòng tốt
+king	vua, quốc vương
+kiss	hôn, cái hôn
+kitchen	bếp
+knee	đầu gối
+knife	con dao
+knit	đan, thêu
+knitted	được đan, được thêu
+knitting	việc đan; hàng dệt kim
+knock	đánh, đập; cú đánh
+knot	cái nơ; điểm nút, điểm trung tâm
+know	biết
+lake	hồ
+lamp	đèn
+land	đất, đất canh tác, đất đai
+landscape	phong cảnh
+lane	đường nhỏ (làng, hẻm phố)
+language	ngôn ngữ
+large	rộng, lớn, to
+largely	phong phú, ở mức độ lớn
+last	lần cuối, sau cùng; người cuối cùng; cuối cùng, rốt hết; kéo dài
+late	trễ, muộn
+later	chậm hơn
+latest	muộn nhất, chậm nhất, gần đây nhất
+latter	sau cùng, gần đây, mới đây
+laugh	cười; tiếng cười
+launch	hạ thủy (tàu); khai trương; sự hạ thủy, buổi giới thiệu sản phầm
+law	luật
+lawyer	luật sư
+lay	xếp, đặt, bố trí
+layer	lớp
+lazy	lười biếng
+lead	lãnh đạo, dẫn dắt; sự lãnh đạo, sự hướng dẫn
+machine	máy, máy móc
+machinery	máy móc, thiết bị
+mad	điên, mất trí, bực điên người
+magazine	tạp chí
+magic	ma thuật, ảo thuật; (thuộc) ma thuật, ảo thuật
+mail	thư từ, bưu kiện; gửi qua bưu điện
+main	chính, chủ yếu, trọng yếu nhất
+mainly	chính, chủ yếu, phần lớn
+maintain	giữ gìn, duy trì, bảo vệ
+major	lớn, nhiều hơn, trọng đại, chủ yếu
+majority	phần lớn, đa số, ưu thế
+make	làm, chế tạo; sự chế tạo
+make-up	đồ hóa trang, son phấn
+male	trai, trống, đực; con trai, đàn ông, con trống, đực
+mall	búa
+man	con người; đàn ông
+manage	quản lý, trông nom, điều khiển
+management	sự quản lý, sự trông nom, sự điều khiển
+manager	người quản lý, giám đốc
+manner	cách, lối, kiểu; dáng, vẻ, thái độ
+manufacturer	người chế tạo, người sản xuất
+manufacturing	sự sản xuất, sự chế tạo
+many	nhiều
+map	bản đồ
+music	nhạc, âm nhạc
+musical	(thuộc) nhạc, âm nhạc; du dương, êm ái
+musician	nhạc sĩ
+my	của tôi
+myself	tự tôi, chính tôi
+mysterious	thần bí, huyền bí, khó hiểu
+mystery	điều huyền bí, điều thần bí
+nail	móng (tay, chân) móng vuốt
+naked	trần, khỏa thân, trơ trụi
+name	tên; đặt tên, gọi tên
+narrow	hẹp, chật hẹp
+nation	dân tộc, quốc gia
+national	(thuộc) quốc gia, dân tộc
+natural	(thuộc) tự nhiên, thiên nhiên
+naturally	vốn, tự nhiên, đương nhiên
+nature	tự nhiên, thiên nhiên
+navy	hải quân
+near	gần, cận; ở gần
+nearby	gần
+nearly	gần, sắp, suýt
+neat	sạch, ngăn nắp; rành mạch
+neatly	gọn gàng, ngăn nắp
+necessarily	tất yếu, nhất thiết
+necessary	cần, cần thiết, thiết yếu
+neck	cổ
+need	cần, đòi hỏi; sự cần
+needle	cái kim, mũi nhọn
+negative	phủ định
+neighbour	hàng xóm
+neighbourhood	hàng xóm, làng giềng
+neither	không này mà cũng không kia
+obtain	đạt được, giành được
+obvious	rõ ràng, rành mạch, hiển nhiên
+obviously	một cách rõ ràng, có thể thấy được
+occasion	dịp, cơ hội
+occasionally	thỉnh thoảng, đôi khi
+occupied	đang sử dụng, đầy (người)
+occupy	giữ, chiếm lĩnh, chiếm giữ
+occur	xảy ra, xảy đến, xuất hiện
+ocean	đại dương
+october	tháng 10
+odd	kỳ quặc, kỳ cục, lẻ (số)
+oddly	kỳ quặc, kỳ cục, lẻ (số)
+of	của
+off	tắt; khỏi, cách, rời
+offence	sự vi phạm, sự phạm tội
+offend	xúc phạm, làm bực mình, làm khó chịu
+offensive	sự tấn công, cuộc tấn công
+offer	biếu, tặng, cho; sự trả giá
+office	cơ quan, văn phòng, bộ
+officer	viên chức, cảnh sát, sĩ quan
+official	chính quyền, văn phòng; viên chức, công chức
+officially	một cách trịnh trọng, một cách chính thức
+often	thường, hay, luôn
+o’clock	đúng giờ
+pack	gói, bọc; bó, gói
+package	gói đồ, bưu kiện; đóng gói, đóng kiện
+packaging	bao bì
+packet	gói nhỏ
+page	trang (sách)
+pain	sự đau đớn, sự đau khổ
+painful	đau đớn, đau khổ
+paint	sơn, vôi màu; sơn, quét sơn
+painter	họa sĩ
+painting	sự sơn; bức họa, bức tranh
+pair	đôi, cặp
+palace	cung điện, lâu đài
+pale	taí, nhợt
+pan	xoong, chảo
+panel	ván ô (cửa, tường), pa nô
+pants	quần lót, đùi
+paper	giấy
+parallel	song song, tương đương
+parent	cha, mẹ
+park	công viên, vườn hoa; khoanh vùng thành công viên
+parliament	nghi viện, quốc hội
+part	phần, bộ phận
+particular	riêng biệt, cá biệt
+put	đặt, để, cho vào
+qualification	phẩm chất, năng lực; khả năng chuyên môn
+qualified	đủ tư cách, điều kiện, khả năng
+qualify	đủ khả năng, đủ tư cách, điều kiện
+quality	chất lượng, phẩm chất
+quantity	lượng, số lượng
+quarter	1/4, 15 phút
+queen	nữ hoàng
+question	câu hỏi; hỏi, chất vấn
+quick	nhanh
+quickly	nhanh
+quiet	lặng, yên lặng, yên tĩnh
+quietly	lặng, yên lặng, yên tĩnh
+quit	thoát, thoát ra
+quite	hoàn toàn, hầu hết
+quote	trích dẫn
+race	loài, chủng, giống; cuộc đua; đua
+racing	cuộc đua
+radio	sóng vô tuyến, radio
+rail	đường ray
+railway	đường sắt
+rain	mưa, cơn mưa; mưa
+raise	nâng lên, đưa lên, ngẩng lên
+range	dãy, hàng, loại; phạm vi, trình độ
+rank	hàng, dãy; sắp xếp thành hàng, dãy
+rapid	nhanh, nhanh chóng
+rapidly	nhanh, nhanh chóng
+rare	hiếm, ít
+rarely	hiếm khi, ít khi
+receipt	công thức; đơn thuốc
+receive	nhận, lĩnh, thu
+recent	gần đây, mới đây
+recently	gần đây, mới đây
+receptio	sự nhận, sự tiếp nhận, sự đón tiếp
+reckon	tính, đếm
+recognition	sự công nhận, sự thừa nhận
+recognize	nhận ra, nhận diện; công nhận, thừa nhận
+recommend	giới thiệu, tiến cử; đề nghị, khuyên bảo
+record	bản ghi, sự ghi, bản thu, sự thu; thu, ghi chép
+recording	sự ghi, sự thu âm
+recover	lấy lại, giành lại
+red	đỏ; màu đỏ
+reduce	giảm, giảm bớt
+reduction	sự giảm giá, sự hạ giá
+refer to	xem, tham khảo; ám chỉ, nhắc đến
+safe	an toàn, chắc chắn, đáng tin
+safely	an toàn, chắc chắn, đáng tin
+safety	sự an toàn, sự chắc chăn
+sail	đi tàu, thuyền, nhổ neo; buồm, cánh buồm, chuyến đi bằng thuyền buồm
+sailing	sự đi thuyền
+sailor	thủy thủ
+salad	sa lát (xà lách trộng dầu dấm); rau sống
+salary	tiền lương
+sale	việc bán hàng
+salt	muối
+salty	chứ vị muối, có muối, mặn
+same	đều đều, đơn điệu; cũng như thế, vẫn cái đó
+sample	mẫu, hàng mẫu
+sand	cát
+satisfaction	sự làm cho thỏa mãn, toại nguyện; sự trả nợ, bồi thường
+satisfied	cảm thấy hài lòng, vừa ý, thoả mãn
+satisfy	làm thỏa mãn, hài lòng; trả (nợ), chuộc tội
+satisfying	đem lại sự thỏa mãn, làm thỏa mãn, làm vừa ý
+saturday	thứ 7
+sauce	nước xốt, nước chấm
+save	cứu, lưu
+saving	sự cứu, sự tiết kiệm
+say	nói
+scale	vảy (cá..)
+scare	làm kinh hãi, sợ hãi, dọa; sự sợ hãi, sự kinh hoàng
+scared	bị hoảng sợ, bị sợ hãi
+scene	cảnh, phong cảnh
+swim	bơi lội
+swimming	sự bơi lội
+swimming pool	bể nước
+swing	sự đu đưa, lúc lắc; đánh đu, đu đưa, lúc lắc
+switch	công tắc, roi; tắt, bật, đánh bằng gậy, roi
+swollen swell	phồng lên, sưng lên
+symbol	biểu tượng, ký hiệu
+sympathetic	đồng cảm, đáng mến, dễ thương
+sympathy	sự đồng cảm, sự đồng ý
+system	hệ thống, chế độ
+take action	hành động
+take part in	tham gia (vào)
+tiger	con hổ
+totally	hoàn toàn
+touch	sờ, mó, tiếp xúc; sự sờ, sự mó, sự tiếp xúc
+tough	chắc, bền, dai
+tour	cuộc đo du lịch, cuộc đi dạo, chuyến du lịch; đi du lịch
+tourist	khách du lịch
+towards	theo hướng, về hướng
+towel	khăn tắm, khăn lau
+tower	tháp
+town	thị trấn, thị xã, thành phố nhỏ
+toy	đồ chơi, đồ trang trí; thể loại đồ chơi
+trace	phát hiện, tìm thấy, vạch, chỉ ra, phác họa; dấu, vết, một chút
+track	phần của đĩa; đường mòn, đường đua
+trade	thương mại, buôn bán; buôn bán, trao đổi
+trading	sự kinh doanh, việc mua bán
+tradition	truyền thống
+traditional	theo truyền thống, theo lối cổ
+traditionally	(thuộc) truyền thống, là truyền thống
+traffic	sự đi lại, sự giao thông, sự chuyển động
+train	xe lửa, tàu hỏa; dạy, rèn luyện, đào tạo
+training	sự dạy dỗ, sự huấn luyện, sự đào tạo
+transfer	dời, di chuyển; sự di chuyển, sự dời chỗ
+transform	thay đổi, biến đổi
+translate	dịch, biên dịch, phiên dịch
+translation	sự dịch
+transparent	trong suốt; dễ hiểu, sáng sủa
+transport	chuyên chở, vận tải
+transport	sự vận chuyển, sự vận tải; phương tiện đi lại
+trap	đồ đạc, hành lý; bẫy, cạm bãy; bẫy, giữ, chặn lại
+travel	đi lại, đi du lịch, di chuyển; sự đi, những chuyến đi
+traveller	người đi, lữ khách
+treat	đối xử, đối đãi, cư xử
+treatment	sự đối xử, sự cư xử
+tree	cây
+trend	phương hướng, xu hướng, chiều hướng
+trial	sự thử nghiệm, cuộc thử nghiệm
+triangle	hình tam giác
+trick	mưu mẹo, thủ đoạn, trò lừa gạt; lừa, lừa gạt
+underwater	ở dưới mặt nước, dưới mặt nước
+underwear	quần lót
+undo	tháo, gỡ, xóa, hủy bỏ
+unemployed	thất nghiệp; không dùng, không sử dụng được
+unexpected	bất ngờ, đột ngột, gây ngạc nhiên
+unfair	không đúng, không công bằng, gian lận
+unfairly	gian lận, không công bằng; bất lợi
+unfortunate	không may, rủi ro, bất hạnh
+unfortunately	một cách đáng tiếc, một cách không may
+unfriendly	đối địch, không thân thiện
+unhappiness	sự buồn, nỗi buồn
+unhappy	buồn rầu, khổ sở
+uniform	đồng phục; đều, giống nhau, đồng dạng
+unimportant	không quan trọng
+union	liên hiệp, sự đoàn kết, sự hiệp nhất
+unique	độc nhất vô nhị
+unit	đơn vị
+unite	liên kết, hợp nhất, hợp lại, kết thân
+united	liên minh, đoàn kết, chung, thống nhất
+universe	vũ trụ
+university	trường đại học
+unkind	không tử tế, không tốt
+unknown	không biết, không được nhận ra
+unless	trừ phi, trừ khi, nếu không
+unlike	không giống, khác
+unnecessary	không cần thiết, không mong muốn
+valley	thung lũng
+valuable	có giá trị lớn, đáng giá
+value	giá trị, ước tính, định giá
+van	tiền đội, quân tiên phong; xe tải
+variation	sự biến đổi, sự thay đổi mức độ, sự khác nhau
+varied	thuộc nhiều loại khác nhau, những vẻ đa dạng
+variety	sự đa dạng, trạng thái khác nhau
+various	khác nhau, thuộc về nhiều loại
+vary	thay đổi, làm cho khác nhau, biến đổi
+vast	rộng lớn, mênh mông
+vegetable	rau, thực vật
+vehicle	xe cộ
+venture	sự án kinh doanh, công việc kinh doanh; liều, mạo hiểm, cả gan
+version	bản dịch sang một ngôn ngữ khác
+vertical	thẳng đứng, đứng
+very	rất, lắm
+via	qua, theo đường
+victim	nạn nhân
+victory	chiến thắng
+video	video
+view	sự nhìn, tầm nhìn; nhìn thấy, xem, quan sát
+village	làng, xã
+violence	sự ác liệt, sự dữ dội; bạo lực
+violent	mãnh liệt, mạnh mẽ, hung dữ
+violently	mãnh liệt, dữ dội
+virtually	thực sự, hầu như, gần như
+wait	chờ đợi
+waiter	người hầu bàn, người đợi, người trông chờ
+wake	thức dậy, tỉnh thức
+walk	đi, đi bộ; sự đi bộ, sự đi dạo
+walking	sự đi, sự đi bộ
+wall	tường, vách
+wallet	cái ví
+wander	đi lang thang; sự đi lang thang
+want	muốn
+war	chiến tranh
+warm	ấm, ấm áp; làm cho nóng, hâm nóng
+warmth	trạng thái ấm, sự ấm áp; hơi ấm
+warn	báo cho biết, cảnh báo
+warning	sự báo trước, lời cảnh báo
+wash	rửa, giặt
+washing	sự tắm rửa, sự giặt
+waste	lãng phí, uổng phí; vùng hoang vu, sa mạc
+weekend	cuối tuần
+weekly	mỗi tuần một lần, hàng tuần
+weigh	cân, cân nặng
+weight	trọng lượng
+welcome	chào mừng, hoan nghênh
+well	tốt, giỏi; ôi, may quá!
+west	phía tây, theo phía tây, về hướng tây
+western	về phía tây, của phía tây
+wet	ướt, ẩm ướt
+whatever	bất cứ thứ gì, bất kể thứ gì
+wheel	bánh xe
+when	khi, lúc, vào lúc nào
+whenever	bất cứ lúc nào, lúc nào
+where	đâu, ở đâu; nơi mà
+whereas	nhưng ngược lại, trong khi
+wherever	ở bất cứ nơi nào, ở bất cứ nơi đâu
+whether	có..không; có... chăng; không biết có.. không
+which	nào, bất cứ.. nào; ấy, đó
+while	trong lúc, trong khi; lúc, chốc, lát
+woman	đàn bà, phụ nữ
+wood	gỗ
+yawn	há miệng; cử chỉ ngáp
+year	năm
+yellow	vàng; màu vàng
+yes	vâng, phải, có chứ
+yesterday	hôm qua
+yet	còn, hãy cỏn, còn nữa; như mà, xong, tuy thế, tuy
+young	trẻ, trẻ tuổi, thanh niên
+your	của anh, của chị, của ngài, của mày; của các anh, của các chị, của các ngài, của chúng mày
+yours faithfully	bạn chân thành
+yourself	tự anh, tự chị, chính anh, chính mày, tự mày, tự mình
+youth	tuổi trẻ, tuổi xuân, tuổi thanh niên, tuổi niên thiếu
+zero	số không
+zone	khu vực, miền, vùng
+book	new book

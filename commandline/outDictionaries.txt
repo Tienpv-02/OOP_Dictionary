@@ -1,0 +1,704 @@
+1         |abandon             |bỏ, từ bỏ           
+2         |ability             |khả năng, năng lực  
+3         |able                |có năng lực         
+4         |about               |7                   
+5         |abroad              |ở, ra nước ngoài    
+6         |absence             |sự vắng mặt         
+7         |absolute            |tuyệt đối,hoàn toàn 
+8         |across              |qua, ngang qua      
+9         |act                 |hành động, hành vi, cử chỉ, đối xử
+10        |action              |hành động, hành vi, tác động
+11        |active              |tích cực hoạt động, nhanh nhẹn
+12        |actor               |diễn viên           
+13        |actual              |thực tế             
+14        |actually            |hiện nay, hiện tại  
+15        |adapt               |tra, lắp vào        
+16        |add                 |cộng, thêm vào      
+17        |addition            |tính cộng, phép cộng
+18        |additional          |thêm vào, tăng thêm 
+19        |address             |địa chỉ, đề địa chỉ 
+20        |adequate            |đầy, đầy đủ         
+21        |adequately          |tương xứng, thỏa đáng
+22        |adjust              |sửa lại cho đúng, điều chỉnh
+23        |admiration          |sự khâm phục        
+24        |adopt               |nhận làm con nuôi, bố mẹ nuôi
+25        |bathroom            |buồng tắm           
+26        |battery             |pin, ắc quy         
+27        |battle              |trận đánh, chiến thuật
+28        |be going to         |sắp sửa, có ý định  
+29        |beach               |bãi biển            
+30        |beak                |mỏ chim             
+31        |bear                |mang, cầm, vác, đeo, ôm
+32        |beard               |râu                 
+33        |beat                |tiếng đập, sự đập; đánh đập, đấm
+34        |beautiful           |đẹp                 
+35        |beautifully         |tốt đẹp, đáng hài lòng
+36        |beauty              |vẻ đẹp, cái đẹp; người đẹp
+37        |because             |bởi vì, vì          
+38        |because of          |vì, do bởi          
+39        |become              |trở thành, trở nên  
+40        |bedroom             |phòng ngủ           
+41        |beef                |thịt bò             
+42        |beer                |rượu bia            
+43        |before              |trước, đằng trước   
+44        |begin               |bắt đầu, khởi đầu   
+45        |beginning           |phần đầu, lúc bắt đầu, lúc khởi đầu
+46        |behalf              |sự thay mặt         
+47        |behave              |đối xử, ăn ở, cư xử 
+48        |behind              |sau, ở đằng sau     
+49        |belief              |lòng tin, đức tin, sự tin tưởng
+50        |believe             |tin, tin tưởng      
+51        |belong              |thuộc về, của, thuộc quyền sở hữu
+52        |below               |ở dưới, dưới thấp, phía dưới
+53        |bend                |chỗ rẽ, chỗ uốn; khuỷu tay; cúi xuống, uốn cong
+54        |beneath             |ở dưới, dưới thấp   
+55        |benefit             |lợi, lợi ích; giúp ích, làm lợi cho
+56        |bent                |khiếu, sở thích, khuynh hướng
+57        |beside              |bên cạnh, so với    
+58        |bet                 |đánh cuộc, cá cược; sự đánh cuộc
+59        |bird                |con chim            
+60        |cat                 |con mèo             
+61        |chicken             |gà, gà con, thịt gà 
+62        |chief               |trọng yếu, chính yếu; thủ lĩnh, lãnh tụ, người đứng đầu, xếp
+63        |child               |đứa bé, đứa trẻ     
+64        |chin                |cằm                 
+65        |chip                |vỏ bào, mảnh vỡ, chỗ sứt, mẻ
+66        |chocolate           |sô cô la            
+67        |choice              |sự lựa chọn         
+68        |choose              |chọn, lựa chọn      
+69        |chop                |chặt, đốn, chẻ      
+70        |church              |nhà thờ             
+71        |cigarette           |điếu thuốc lá       
+72        |cinema              |rạp xi nê, rạp chiếu bóng
+73        |circle              |đường tròn, hình tròn
+74        |circumstance        |hoàn cảnh, trường hợp, tình huống
+75        |citizen             |người thành thị     
+76        |city                |thành phố           
+77        |civil               |công dân            
+78        |claim               |đòi hỏi, yêu sách; sự đòi hỏi, sự yêu sách, sự thỉnh cầu
+79        |clap                |vỗ, vỗ tay; tiếng nổ, tiếng vỗ tay
+80        |class               |lớp học             
+81        |classic             |cổ điển, kinh điển  
+82        |classroom           |lớp học, phòng học  
+83        |clean               |sạch, sạch sẽ;      
+84        |clear               |lau chùi, quét dọn  
+85        |clearly             |rõ ràng, sáng sủa   
+86        |clerk               |thư ký, linh mục, mục sư
+87        |clever              |lanh lợi, thông minh. tài giỏi, khéo léo
+88        |click               |làm thành tiếng lách cách; tiếng lách cách, cú nhắp (chuột)
+89        |client              |khách hàng          
+90        |climate             |khí hậu, thời tiết  
+91        |climb               |leo, trèo           
+92        |climbing            |sự leo trèo         
+93        |clock               |đồng hồ             
+94        |close               |đóng kín, chật chội, che đậy
+95        |close               |đóng, khép, kết thúc, chấm dứt
+96        |closed              |bảo thủ, không cởi mở, khép kín
+97        |closely             |chặt chẽ, kỹ lưỡng, tỉ mỉ
+98        |closet              |buồng, phòng để đồ, phòng kho
+99        |cloth               |vải, khăn trải bàn, áo thầy tu
+100       |clothes             |quần áo             
+101       |community           |dân chúng, nhân dân 
+102       |company             |công ty             
+103       |compare             |so sánh, đối chiếu  
+104       |comparison          |sự so sánh          
+105       |compete             |đua tranh, ganh đua, cạnh tranh
+106       |competition         |sự cạnh tranh, cuộc thi, cuộc thi đấu
+107       |competitive         |cạnh tranh, đua tranh
+108       |complain            |phàn nàn, kêu ca    
+109       |complaint           |lời than phiền, than thở; sự khiếu nại, đơn kiện
+110       |complete            |hoàn thành, xong;   
+111       |completely          |hoàn thành, đầy đủ, trọn vẹn
+112       |complex             |phức tạp, rắc rối   
+113       |complicate          |làm phức tạp, rắc rối
+114       |complicated         |phức tạp, rắc rối   
+115       |computer            |máy tính            
+116       |concentrate         |tập trung           
+117       |concentration       |sự tập trung, nơi tập trung
+118       |concept             |khái niệm           
+119       |concern             |liên quan, dính líu tới; sự liên quan, sự dính líu tới
+120       |concerned           |có liên quan, có dính líu
+121       |concerning          |bâng khuâng, ái ngại
+122       |concert             |buổi hòa nhạc       
+123       |conclude            |kết luận, kết thúc, chấm dứt (công việc)
+124       |conclusion          |sự kết thúc, sự kết luận, phần kết luận
+125       |concrete            |bằng bê tông; bê tông
+126       |condition           |điều kiện, tình cảnh, tình thế
+127       |conduct             |điều khiển, chỉ đạo, chỉ huy; sự điều khiển, chỉ huy
+128       |conference          |hội nghị, sự bàn bạc
+129       |confidence          |lòng tin tưởng, sự tin cậy
+130       |confident           |tin tưởng, tin cậy, tự tin
+131       |confidently         |tự tin              
+132       |confine             |giam giữ, hạn chế   
+133       |confined            |hạn chế, giới hạn   
+134       |confirm             |xác nhận, chứng thực
+135       |conflict            |xung đột, va chạm; sự xung đột, sự va chạm
+136       |confront            |đối mặt, đối diện, đối chiếu
+137       |confuse             |làm lộn xộn, xáo trộn
+138       |defend              |che chở, bảo vệ, bào chữa
+139       |define              |định nghĩa          
+140       |definite            |xác định, định rõ, rõ ràng
+141       |definitely          |rạch ròi, dứt khoát 
+142       |definition          |sự định nghĩa, lời định nghĩa
+143       |degree              |mức độ, trình độ; bằng cấp; độ
+144       |delay               |sự chậm trễ, sự trì hoãn, sự cản trở; làm chậm trễ
+145       |deliberate          |thận trọng, có tính toán, chủ tâm, có suy nghĩ cân nhắc
+146       |deliberately        |thận trọng, có suy nghĩ cân nhắc
+147       |delicate            |thanh nhã, thanh tú, tế nhị, khó xử
+148       |delight             |sự vui thích, sự vui sướng, điều thích thú; làm vui thích, làm say mê
+149       |delighted           |vui mừng, hài lòng  
+150       |deliver             |cứu khỏi, thoát khỏi, bày tỏ, giãi bày
+151       |delivery            |sự phân phát, sự phân phối, sự giao hàng; sự bày tỏ, phát biếu
+152       |demand              |sự đòi hỏi, sự yêu cầu; đòi hỏi, yêu cầu
+153       |demonstrate         |chứng minh, giải thích; bày tỏ, biểu lộ
+154       |dentist             |nha sĩ              
+155       |deny                |từ chối, phản đối, phủ nhận
+156       |department          |cục, sở, ty, ban, khoa; gian hàng, khu bày hàng
+157       |departure           |sự rời khỏi, sự đi, sự khởi hành
+158       |depend              |phụ thuộc, tùy thuộc; dựa vào, ỷ vào, trông mong vào
+159       |deposit             |vật gửi, tiền gửi, tiền đặt cọc; gửi, đặt cọc
+160       |depress             |làm chán nản, làm phiền muộn; làm suy giảm
+161       |dog                 |con chó             
+162       |effect              |hiệu ứng, hiệu quả, kết quả
+163       |effective           |có kết quả, có hiệu lực
+164       |effectively         |có kết quả, có hiệu lực
+165       |efficient           |có hiệu lực, có hiệu quả
+166       |efficiently         |có hiệu quả, hiệu nghiệm
+167       |effort              |sự cố gắng, sự nỗ lực
+168       |egg                 |trứng               
+169       |either              |mỗi, một; cũng phải thế
+170       |elbow               |khuỷu tay           
+171       |elderly             |có tuổi, cao tuổi   
+172       |elect               |bầu, quyết định     
+173       |election            |sự bầu cử, cuộc tuyển cử
+174       |electric            |(thuộc) điện, có điện, phát điện
+175       |electrical          |(thuộc) điện        
+176       |electricity         |điện, điện lực; điện lực học
+177       |electronic          |(thuộc) điện tử     
+178       |elegant             |thanh lịch, tao nhã 
+179       |element             |yếu tôd, nguyên tố  
+180       |elevator            |máy nâng, thang máy 
+181       |else                |khác, nữa; nếu không
+182       |elsewhere           |ở một nơi nào khác  
+183       |email               |thư điện tử; gửi thư điện tử
+184       |embarrass           |lúng túng, làm ngượng nghịu; làm rắc rối, gây khó khăn
+185       |embarrassed         |lúng túng, bối rối, ngượng; mang nợ
+186       |embarrassing        |làm lúng túng, ngăn trở
+187       |embarrassment       |sự lúng túng, sự bối rối
+188       |emerge              |nổi lên, hiện ra; nổi bật lên
+189       |emergency           |tình trạng khẩn cấp 
+190       |emotion             |sự xúc động, sự cảm động, mối xác cảm
+191       |emotional           |cảm động, xúc động, xúc cảm; dễ cảm động, dễ xúc cảm
+192       |emotionally         |xúc động            
+193       |emphasis            |sự nhấn mạnh, tầm quan trọng
+194       |emphasize           |nhấn mạnh, làm nổi bật
+195       |empire              |đế chế, đế quốc     
+196       |employ              |dùng, thuê ai làm gì
+197       |employee            |người lao động, người làm công
+198       |extension           |sự giơ, duỗi; sự kéo dài, sự dành cho, gửi lời
+199       |extensive           |rộng rãi, bao quát  
+200       |extent              |quy mô, phạm vi     
+201       |extra               |thêm, phụ, ngoại; thứ thêm, phụ
+202       |extraordinary       |đặc biệt, lạ thường, khác thường
+203       |extreme             |vô cùng, khắc nghiệt, quá khích, cực đoan; sự quá khích
+204       |extremely           |vô cùng, cực độ     
+205       |eye                 |mắt                 
+206       |face                |mặt, thể diện; đương đầu, đối phó, đối mặt
+207       |facility            |điều kiện dễ dàng, sự dễ dàng, thuận lợi
+208       |fact                |việc, sự việc, sự kiện
+209       |factor              |nhân tố             
+210       |factory             |nhà máy, xí nghiệp, xưởng
+211       |failure             |sự thất bại, người thất bại
+212       |faint               |nhút nhát, yếu ớt   
+213       |faintly             |nhút nhát, yếu ớt   
+214       |fair                |hợp lý, công bằng; thuận lợi
+215       |fairly              |hợp lý, công bằng   
+216       |faith               |sự tin tưởng, tin cậy; niềm tin, vật đảm bảo
+217       |faithful            |trung thành, chung thủy, trung thực
+218       |faithfully          |trung thành, chung thủy, trung thực
+219       |fall                |rơi, ngã, sự rơi, ngã
+220       |fall over           |ngã lộn nhào, bị đổ 
+221       |false               |sai, nhầm, giả dối  
+222       |fame                |tên tuổi, danh tiếng
+223       |familiar            |thân thiết, quen thộc
+224       |family              |gia đình, thuộc gia đình
+225       |famous              |nổi tiếng           
+226       |fan                 |người hâm mộ        
+227       |fancy               |tưởng tượng, cho, nghĩ rằng; tưởng tượng
+228       |far                 |xa                  
+229       |farm                |trang trại          
+230       |fundamental         |cơ bản, cơ sở, chủ yếu
+231       |funeral             |lễ tang, đám tang   
+232       |funny               |buồn cười, khôi hài 
+233       |fur                 |bộ da lông thú      
+234       |furniture           |đồ đạc (trong nhà)  
+235       |further             |xa hơn nữa; thêm nữa
+236       |future              |tương lai           
+237       |gain                |lợi, lợi ích; giành được, kiếm được, đạt tới
+238       |gallon              |galông 1gl = 4, 54 lít ở anh, 3, 78 lít ở mỹ
+239       |gamble              |đánh bạc; cuộc đánh bạc
+240       |gambling            |trò cờ bạc          
+241       |game                |trò chơi            
+242       |gap                 |đèo, lỗ hổng, kẽ hở; chỗ trống
+243       |garage              |nhà để ô tô         
+244       |garbage             |lòng, ruột (thú)    
+245       |garden              |vườn                
+246       |gas                 |khí, hơi đốt        
+247       |gasoline            |dầu lửa, dầu hỏa, xăng
+248       |gift                |quà tặng            
+249       |girl                |con gái             
+250       |girlfriend          |bạn gái, người yêu  
+251       |give                |cho, biếu, tặng     
+252       |give up             |bỏ, từ bỏ           
+253       |glad                |vui lòng, sung sướng
+254       |glass               |kính, thủy tinh, cái cốc, ly
+255       |glasses             |kính đeo mắt        
+256       |global              |toàn cầu, toàn thể, toàn bộ
+257       |glove               |bao tay, găng tay   
+258       |glue                |keo, hồ; gắn lại, dán bằng keo, hồ
+259       |go                  |đi                  
+260       |go down             |đi xuống            
+261       |go up               |đi lên              
+262       |god                 |thần, chúa          
+263       |gram                |đậu xanh            
+264       |handle              |cầm, sờ mó; tay cầm, móc quai
+265       |hang                |treo, mắc           
+266       |happen              |xảy ra, xảy đến     
+267       |happily             |sung sướng, hạnh phúc
+268       |happiness           |sự sung sướng, hạnh phúc
+269       |happy               |vui sướng, hạnh phúc
+270       |hard                |cứng, rắn, hà khắc; hết sức cố gắng, tích cực
+271       |hardly              |khắc nghiệt, nghiêm khắc, tàn tệ, khó khăn
+272       |harm                |thiệt hại, tổn hao; làm hại, gây thiệt hại
+273       |harmful             |gây tai hại, có hại 
+274       |harmless            |không có hại        
+275       |hat                 |cái mũ              
+276       |hate                |ghét; lòng căm ghét, thù hận
+277       |hot                 |nóng, nóng bức      
+278       |hotel               |khách sạn           
+279       |hour                |giờ                 
+280       |house               |nhà, căn nhà, toàn nhà
+281       |household           |hộ, gia đình; (thuộc) gia đình
+282       |housing             |nơi ăn chốn ở       
+283       |how                 |thế nào, như thế nào, làm sao, ra sao
+284       |however             |tuy nhiên, tuy vậy, dù thế nào
+285       |huge                |to lớn, khổng lồ    
+286       |human               |con người, loài người
+287       |humorous            |hài hước, hóm hỉnh  
+288       |humour              |sự hài hước, sự hóm hỉnh
+289       |hungry              |đói                 
+290       |hunt                |săn, đi săn         
+291       |hunting             |sự đi săn           
+292       |hurry               |sự vội vàng, sự gấp rút
+293       |hurt                |làm bị thương, gây thiệt hại
+294       |husband             |người chồng         
+295       |ice                 |băng, nước đá       
+296       |ice cream           |kem                 
+297       |idea                |ý tưởng, quan niệm  
+298       |import              |sự nhập, sự nhập khẩu; nhập, nhập khẩu
+299       |importance          |sự quan trọng, tầm quan trọng
+300       |important           |quan trọng, hệ trọng
+301       |importantly         |quan trọng, trọng yếu
+302       |impose              |bắt gánh vác; đánh tráo, lợi dụng
+303       |impossible          |không thể làm được, không thể xảy ra
+304       |impress             |ghi, khắc, in sâu vào; gây ấn tượng, làm cảm động
+305       |impressed           |được ghi, khắc, in sâu vào
+306       |impression          |ấn tượng, cảm giác; sự in, đóng dấu
+307       |impressive          |gấy ấn tượng mạnh; hùng vĩ, oai vệ
+308       |improve             |cải thiện, cái tiến, mở mang
+309       |improvement         |sự cái thiện, sự cải tiến, sự mở mang
+310       |in a hurry          |vội vàng, hối hả, gấp rút
+311       |inability           |sự bất lực, bất tài 
+312       |inch                |đơn vị đo chiều dài anh bằng 2, 54 cm
+313       |iron                |bọc sắt             
+314       |irritate            |làm phát cáu, chọc tức
+315       |irritated           |tức giận, cáu tiết  
+316       |irritating          |làm phát cáu, chọc tức
+317       |island              |hòn đảo             
+318       |issue               |sự phát ra, sự phát sinh; phát hành, đưa ra
+319       |it                  |cái đó, điều đó, con vật đó
+320       |item                |khoản, món, tiết mục
+321       |its                 |của cái đó, của điều đó, của con vật đó; cái của điều đó, cái của con vật đó
+322       |jacket              |áo vét              
+323       |jam                 |mứt                 
+324       |january             |tháng giêng         
+325       |jealous             |ghen, ghen tị       
+326       |jeans               |quần bò, quần zin   
+327       |jelly               |thạch               
+328       |jewellery           |nữ trang, kim hoàn  
+329       |job                 |việc, việc làm      
+330       |join                |gia nhập, tham gia; nối, chắp, ghép
+331       |joke                |trò cười, lời nói đùa; nói đùa, giễu cợt
+332       |journalist          |nhà báo             
+333       |journey             |cuộc hành trình (đường bộ); quãng đường, chặng đường đi
+334       |joy                 |niềm vui, sự vui mừng
+335       |keep                |giữ, giữ lại        
+336       |key                 |chìa khóa, khóa, thuộc (khóa)
+337       |keyboard            |bàn phím            
+338       |kick                |đá; cú đá           
+339       |kill                |giết, tiêu diệt     
+340       |killing             |sự giết chóc, sự tàn sát
+341       |kind                |loại, giống; tử tế, có lòng tốt
+342       |kindly              |tử tế, tốt bụng     
+343       |kindness            |sự tử tế, lòng tốt  
+344       |king                |vua, quốc vương     
+345       |kiss                |hôn, cái hôn        
+346       |kitchen             |bếp                 
+347       |knee                |đầu gối             
+348       |knife               |con dao             
+349       |knit                |đan, thêu           
+350       |knitted             |được đan, được thêu 
+351       |knitting            |việc đan; hàng dệt kim
+352       |knock               |đánh, đập; cú đánh  
+353       |knot                |cái nơ; điểm nút, điểm trung tâm
+354       |know                |biết                
+355       |lake                |hồ                  
+356       |lamp                |đèn                 
+357       |land                |đất, đất canh tác, đất đai
+358       |landscape           |phong cảnh          
+359       |lane                |đường nhỏ (làng, hẻm phố)
+360       |language            |ngôn ngữ            
+361       |large               |rộng, lớn, to       
+362       |largely             |phong phú, ở mức độ lớn
+363       |last                |lần cuối, sau cùng; người cuối cùng; cuối cùng, rốt hết; kéo dài
+364       |late                |trễ, muộn           
+365       |later               |chậm hơn            
+366       |latest              |muộn nhất, chậm nhất, gần đây nhất
+367       |latter              |sau cùng, gần đây, mới đây
+368       |laugh               |cười; tiếng cười    
+369       |launch              |hạ thủy (tàu); khai trương; sự hạ thủy, buổi giới thiệu sản phầm
+370       |law                 |luật                
+371       |lawyer              |luật sư             
+372       |lay                 |xếp, đặt, bố trí    
+373       |layer               |lớp                 
+374       |lazy                |lười biếng          
+375       |lead                |lãnh đạo, dẫn dắt; sự lãnh đạo, sự hướng dẫn
+376       |machine             |máy, máy móc        
+377       |machinery           |máy móc, thiết bị   
+378       |mad                 |điên, mất trí, bực điên người
+379       |magazine            |tạp chí             
+380       |magic               |ma thuật, ảo thuật; (thuộc) ma thuật, ảo thuật
+381       |mail                |thư từ, bưu kiện; gửi qua bưu điện
+382       |main                |chính, chủ yếu, trọng yếu nhất
+383       |mainly              |chính, chủ yếu, phần lớn
+384       |maintain            |giữ gìn, duy trì, bảo vệ
+385       |major               |lớn, nhiều hơn, trọng đại, chủ yếu
+386       |majority            |phần lớn, đa số, ưu thế
+387       |make                |làm, chế tạo; sự chế tạo
+388       |make-up             |đồ hóa trang, son phấn
+389       |male                |trai, trống, đực; con trai, đàn ông, con trống, đực
+390       |mall                |búa                 
+391       |man                 |con người; đàn ông  
+392       |manage              |quản lý, trông nom, điều khiển
+393       |management          |sự quản lý, sự trông nom, sự điều khiển
+394       |manager             |người quản lý, giám đốc
+395       |manner              |cách, lối, kiểu; dáng, vẻ, thái độ
+396       |manufacturer        |người chế tạo, người sản xuất
+397       |manufacturing       |sự sản xuất, sự chế tạo
+398       |many                |nhiều               
+399       |map                 |bản đồ              
+400       |music               |nhạc, âm nhạc       
+401       |musical             |(thuộc) nhạc, âm nhạc; du dương, êm ái
+402       |musician            |nhạc sĩ             
+403       |my                  |của tôi             
+404       |myself              |tự tôi, chính tôi   
+405       |mysterious          |thần bí, huyền bí, khó hiểu
+406       |mystery             |điều huyền bí, điều thần bí
+407       |nail                |móng (tay, chân) móng vuốt
+408       |naked               |trần, khỏa thân, trơ trụi
+409       |name                |tên; đặt tên, gọi tên
+410       |narrow              |hẹp, chật hẹp       
+411       |nation              |dân tộc, quốc gia   
+412       |national            |(thuộc) quốc gia, dân tộc
+413       |natural             |(thuộc) tự nhiên, thiên nhiên
+414       |naturally           |vốn, tự nhiên, đương nhiên
+415       |nature              |tự nhiên, thiên nhiên
+416       |navy                |hải quân            
+417       |near                |gần, cận; ở gần     
+418       |nearby              |gần                 
+419       |nearly              |gần, sắp, suýt      
+420       |neat                |sạch, ngăn nắp; rành mạch
+421       |neatly              |gọn gàng, ngăn nắp  
+422       |necessarily         |tất yếu, nhất thiết 
+423       |necessary           |cần, cần thiết, thiết yếu
+424       |neck                |cổ                  
+425       |need                |cần, đòi hỏi; sự cần
+426       |needle              |cái kim, mũi nhọn   
+427       |negative            |phủ định            
+428       |neighbour           |hàng xóm            
+429       |neighbourhood       |hàng xóm, làng giềng
+430       |neither             |không này mà cũng không kia
+431       |obtain              |đạt được, giành được
+432       |obvious             |rõ ràng, rành mạch, hiển nhiên
+433       |obviously           |một cách rõ ràng, có thể thấy được
+434       |occasion            |dịp, cơ hội         
+435       |occasionally        |thỉnh thoảng, đôi khi
+436       |occupied            |đang sử dụng, đầy (người)
+437       |occupy              |giữ, chiếm lĩnh, chiếm giữ
+438       |occur               |xảy ra, xảy đến, xuất hiện
+439       |ocean               |đại dương           
+440       |october             |tháng 10            
+441       |odd                 |kỳ quặc, kỳ cục, lẻ (số)
+442       |oddly               |kỳ quặc, kỳ cục, lẻ (số)
+443       |of                  |của                 
+444       |off                 |tắt; khỏi, cách, rời
+445       |offence             |sự vi phạm, sự phạm tội
+446       |offend              |xúc phạm, làm bực mình, làm khó chịu
+447       |offensive           |sự tấn công, cuộc tấn công
+448       |offer               |biếu, tặng, cho; sự trả giá
+449       |office              |cơ quan, văn phòng, bộ
+450       |officer             |viên chức, cảnh sát, sĩ quan
+451       |official            |chính quyền, văn phòng; viên chức, công chức
+452       |officially          |một cách trịnh trọng, một cách chính thức
+453       |often               |thường, hay, luôn   
+454       |o’clock             |đúng giờ            
+455       |pack                |gói, bọc; bó, gói   
+456       |package             |gói đồ, bưu kiện; đóng gói, đóng kiện
+457       |packaging           |bao bì              
+458       |packet              |gói nhỏ             
+459       |page                |trang (sách)        
+460       |pain                |sự đau đớn, sự đau khổ
+461       |painful             |đau đớn, đau khổ    
+462       |paint               |sơn, vôi màu; sơn, quét sơn
+463       |painter             |họa sĩ              
+464       |painting            |sự sơn; bức họa, bức tranh
+465       |pair                |đôi, cặp            
+466       |palace              |cung điện, lâu đài  
+467       |pale                |taí, nhợt           
+468       |pan                 |xoong, chảo         
+469       |panel               |ván ô (cửa, tường), pa nô
+470       |pants               |quần lót, đùi       
+471       |paper               |giấy                
+472       |parallel            |song song, tương đương
+473       |parent              |cha, mẹ             
+474       |park                |công viên, vườn hoa; khoanh vùng thành công viên
+475       |parliament          |nghi viện, quốc hội 
+476       |part                |phần, bộ phận       
+477       |particular          |riêng biệt, cá biệt 
+478       |put                 |đặt, để, cho vào    
+479       |qualification       |phẩm chất, năng lực; khả năng chuyên môn
+480       |qualified           |đủ tư cách, điều kiện, khả năng
+481       |qualify             |đủ khả năng, đủ tư cách, điều kiện
+482       |quality             |chất lượng, phẩm chất
+483       |quantity            |lượng, số lượng     
+484       |quarter             |1/4, 15 phút        
+485       |queen               |nữ hoàng            
+486       |question            |câu hỏi; hỏi, chất vấn
+487       |quick               |nhanh               
+488       |quickly             |nhanh               
+489       |quiet               |lặng, yên lặng, yên tĩnh
+490       |quietly             |lặng, yên lặng, yên tĩnh
+491       |quit                |thoát, thoát ra     
+492       |quite               |hoàn toàn, hầu hết  
+493       |quote               |trích dẫn           
+494       |race                |loài, chủng, giống; cuộc đua; đua
+495       |racing              |cuộc đua            
+496       |radio               |sóng vô tuyến, radio
+497       |rail                |đường ray           
+498       |railway             |đường sắt           
+499       |rain                |mưa, cơn mưa; mưa   
+500       |raise               |nâng lên, đưa lên, ngẩng lên
+501       |range               |dãy, hàng, loại; phạm vi, trình độ
+502       |rank                |hàng, dãy; sắp xếp thành hàng, dãy
+503       |rapid               |nhanh, nhanh chóng  
+504       |rapidly             |nhanh, nhanh chóng  
+505       |rare                |hiếm, ít            
+506       |rarely              |hiếm khi, ít khi    
+507       |receipt             |công thức; đơn thuốc
+508       |receive             |nhận, lĩnh, thu     
+509       |recent              |gần đây, mới đây    
+510       |recently            |gần đây, mới đây    
+511       |receptio            |sự nhận, sự tiếp nhận, sự đón tiếp
+512       |reckon              |tính, đếm           
+513       |recognition         |sự công nhận, sự thừa nhận
+514       |recognize           |nhận ra, nhận diện; công nhận, thừa nhận
+515       |recommend           |giới thiệu, tiến cử; đề nghị, khuyên bảo
+516       |record              |bản ghi, sự ghi, bản thu, sự thu; thu, ghi chép
+517       |recording           |sự ghi, sự thu âm   
+518       |recover             |lấy lại, giành lại  
+519       |red                 |đỏ; màu đỏ          
+520       |reduce              |giảm, giảm bớt      
+521       |reduction           |sự giảm giá, sự hạ giá
+522       |refer to            |xem, tham khảo; ám chỉ, nhắc đến
+523       |safe                |an toàn, chắc chắn, đáng tin
+524       |safely              |an toàn, chắc chắn, đáng tin
+525       |safety              |sự an toàn, sự chắc chăn
+526       |sail                |đi tàu, thuyền, nhổ neo; buồm, cánh buồm, chuyến đi bằng thuyền buồm
+527       |sailing             |sự đi thuyền        
+528       |sailor              |thủy thủ            
+529       |salad               |sa lát (xà lách trộng dầu dấm); rau sống
+530       |salary              |tiền lương          
+531       |sale                |việc bán hàng       
+532       |salt                |muối                
+533       |salty               |chứ vị muối, có muối, mặn
+534       |same                |đều đều, đơn điệu; cũng như thế, vẫn cái đó
+535       |sample              |mẫu, hàng mẫu       
+536       |sand                |cát                 
+537       |satisfaction        |sự làm cho thỏa mãn, toại nguyện; sự trả nợ, bồi thường
+538       |satisfied           |cảm thấy hài lòng, vừa ý, thoả mãn
+539       |satisfy             |làm thỏa mãn, hài lòng; trả (nợ), chuộc tội
+540       |satisfying          |đem lại sự thỏa mãn, làm thỏa mãn, làm vừa ý
+541       |saturday            |thứ 7               
+542       |sauce               |nước xốt, nước chấm 
+543       |save                |cứu, lưu            
+544       |saving              |sự cứu, sự tiết kiệm
+545       |say                 |nói                 
+546       |scale               |vảy (cá..)          
+547       |scare               |làm kinh hãi, sợ hãi, dọa; sự sợ hãi, sự kinh hoàng
+548       |scared              |bị hoảng sợ, bị sợ hãi
+549       |scene               |cảnh, phong cảnh    
+550       |swim                |bơi lội             
+551       |swimming            |sự bơi lội          
+552       |swimming pool       |bể nước             
+553       |swing               |sự đu đưa, lúc lắc; đánh đu, đu đưa, lúc lắc
+554       |switch              |công tắc, roi; tắt, bật, đánh bằng gậy, roi
+555       |swollen swell       |phồng lên, sưng lên 
+556       |symbol              |biểu tượng, ký hiệu 
+557       |sympathetic         |đồng cảm, đáng mến, dễ thương
+558       |sympathy            |sự đồng cảm, sự đồng ý
+559       |system              |hệ thống, chế độ    
+560       |take action         |hành động           
+561       |take part in        |tham gia (vào)      
+562       |tiger               |con hổ              
+563       |totally             |hoàn toàn           
+564       |touch               |sờ, mó, tiếp xúc; sự sờ, sự mó, sự tiếp xúc
+565       |tough               |chắc, bền, dai      
+566       |tour                |cuộc đo du lịch, cuộc đi dạo, chuyến du lịch; đi du lịch
+567       |tourist             |khách du lịch       
+568       |towards             |theo hướng, về hướng
+569       |towel               |khăn tắm, khăn lau  
+570       |tower               |tháp                
+571       |town                |thị trấn, thị xã, thành phố nhỏ
+572       |toy                 |đồ chơi, đồ trang trí; thể loại đồ chơi
+573       |trace               |phát hiện, tìm thấy, vạch, chỉ ra, phác họa; dấu, vết, một chút
+574       |track               |phần của đĩa; đường mòn, đường đua
+575       |trade               |thương mại, buôn bán; buôn bán, trao đổi
+576       |trading             |sự kinh doanh, việc mua bán
+577       |tradition           |truyền thống        
+578       |traditional         |theo truyền thống, theo lối cổ
+579       |traditionally       |(thuộc) truyền thống, là truyền thống
+580       |traffic             |sự đi lại, sự giao thông, sự chuyển động
+581       |train               |xe lửa, tàu hỏa; dạy, rèn luyện, đào tạo
+582       |training            |sự dạy dỗ, sự huấn luyện, sự đào tạo
+583       |transfer            |dời, di chuyển; sự di chuyển, sự dời chỗ
+584       |transform           |thay đổi, biến đổi  
+585       |translate           |dịch, biên dịch, phiên dịch
+586       |translation         |sự dịch             
+587       |transparent         |trong suốt; dễ hiểu, sáng sủa
+588       |transport           |chuyên chở, vận tải 
+589       |transport           |sự vận chuyển, sự vận tải; phương tiện đi lại
+590       |trap                |đồ đạc, hành lý; bẫy, cạm bãy; bẫy, giữ, chặn lại
+591       |travel              |đi lại, đi du lịch, di chuyển; sự đi, những chuyến đi
+592       |traveller           |người đi, lữ khách  
+593       |treat               |đối xử, đối đãi, cư xử
+594       |treatment           |sự đối xử, sự cư xử 
+595       |tree                |cây                 
+596       |trend               |phương hướng, xu hướng, chiều hướng
+597       |trial               |sự thử nghiệm, cuộc thử nghiệm
+598       |triangle            |hình tam giác       
+599       |trick               |mưu mẹo, thủ đoạn, trò lừa gạt; lừa, lừa gạt
+600       |underwater          |ở dưới mặt nước, dưới mặt nước
+601       |underwear           |quần lót            
+602       |undo                |tháo, gỡ, xóa, hủy bỏ
+603       |unemployed          |thất nghiệp; không dùng, không sử dụng được
+604       |unexpected          |bất ngờ, đột ngột, gây ngạc nhiên
+605       |unfair              |không đúng, không công bằng, gian lận
+606       |unfairly            |gian lận, không công bằng; bất lợi
+607       |unfortunate         |không may, rủi ro, bất hạnh
+608       |unfortunately       |một cách đáng tiếc, một cách không may
+609       |unfriendly          |đối địch, không thân thiện
+610       |unhappiness         |sự buồn, nỗi buồn   
+611       |unhappy             |buồn rầu, khổ sở    
+612       |uniform             |đồng phục; đều, giống nhau, đồng dạng
+613       |unimportant         |không quan trọng    
+614       |union               |liên hiệp, sự đoàn kết, sự hiệp nhất
+615       |unique              |độc nhất vô nhị     
+616       |unit                |đơn vị              
+617       |unite               |liên kết, hợp nhất, hợp lại, kết thân
+618       |united              |liên minh, đoàn kết, chung, thống nhất
+619       |universe            |vũ trụ              
+620       |university          |trường đại học      
+621       |unkind              |không tử tế, không tốt
+622       |unknown             |không biết, không được nhận ra
+623       |unless              |trừ phi, trừ khi, nếu không
+624       |unlike              |không giống, khác   
+625       |unnecessary         |không cần thiết, không mong muốn
+626       |valley              |thung lũng          
+627       |valuable            |có giá trị lớn, đáng giá
+628       |value               |giá trị, ước tính, định giá
+629       |van                 |tiền đội, quân tiên phong; xe tải
+630       |variation           |sự biến đổi, sự thay đổi mức độ, sự khác nhau
+631       |varied              |thuộc nhiều loại khác nhau, những vẻ đa dạng
+632       |variety             |sự đa dạng, trạng thái khác nhau
+633       |various             |khác nhau, thuộc về nhiều loại
+634       |vary                |thay đổi, làm cho khác nhau, biến đổi
+635       |vast                |rộng lớn, mênh mông 
+636       |vegetable           |rau, thực vật       
+637       |vehicle             |xe cộ               
+638       |venture             |sự án kinh doanh, công việc kinh doanh; liều, mạo hiểm, cả gan
+639       |version             |bản dịch sang một ngôn ngữ khác
+640       |vertical            |thẳng đứng, đứng    
+641       |very                |rất, lắm            
+642       |via                 |qua, theo đường     
+643       |victim              |nạn nhân            
+644       |victory             |chiến thắng         
+645       |video               |video               
+646       |view                |sự nhìn, tầm nhìn; nhìn thấy, xem, quan sát
+647       |village             |làng, xã            
+648       |violence            |sự ác liệt, sự dữ dội; bạo lực
+649       |violent             |mãnh liệt, mạnh mẽ, hung dữ
+650       |violently           |mãnh liệt, dữ dội   
+651       |virtually           |thực sự, hầu như, gần như
+652       |wait                |chờ đợi             
+653       |waiter              |người hầu bàn, người đợi, người trông chờ
+654       |wake                |thức dậy, tỉnh thức 
+655       |walk                |đi, đi bộ; sự đi bộ, sự đi dạo
+656       |walking             |sự đi, sự đi bộ     
+657       |wall                |tường, vách         
+658       |wallet              |cái ví              
+659       |wander              |đi lang thang; sự đi lang thang
+660       |want                |muốn                
+661       |war                 |chiến tranh         
+662       |warm                |ấm, ấm áp; làm cho nóng, hâm nóng
+663       |warmth              |trạng thái ấm, sự ấm áp; hơi ấm
+664       |warn                |báo cho biết, cảnh báo
+665       |warning             |sự báo trước, lời cảnh báo
+666       |wash                |rửa, giặt           
+667       |washing             |sự tắm rửa, sự giặt 
+668       |waste               |lãng phí, uổng phí; vùng hoang vu, sa mạc
+669       |weekend             |cuối tuần           
+670       |weekly              |mỗi tuần một lần, hàng tuần
+671       |weigh               |cân, cân nặng       
+672       |weight              |trọng lượng         
+673       |welcome             |chào mừng, hoan nghênh
+674       |well                |tốt, giỏi; ôi, may quá!
+675       |west                |phía tây, theo phía tây, về hướng tây
+676       |western             |về phía tây, của phía tây
+677       |wet                 |ướt, ẩm ướt         
+678       |whatever            |bất cứ thứ gì, bất kể thứ gì
+679       |wheel               |bánh xe             
+680       |when                |khi, lúc, vào lúc nào
+681       |whenever            |bất cứ lúc nào, lúc nào
+682       |where               |đâu, ở đâu; nơi mà  
+683       |whereas             |nhưng ngược lại, trong khi
+684       |wherever            |ở bất cứ nơi nào, ở bất cứ nơi đâu
+685       |whether             |có..không; có... chăng; không biết có.. không
+686       |which               |nào, bất cứ.. nào; ấy, đó
+687       |while               |trong lúc, trong khi; lúc, chốc, lát
+688       |woman               |đàn bà, phụ nữ      
+689       |wood                |gỗ                  
+690       |yawn                |há miệng; cử chỉ ngáp
+691       |year                |năm                 
+692       |yellow              |vàng; màu vàng      
+693       |yes                 |vâng, phải, có chứ  
+694       |yesterday           |hôm qua             
+695       |yet                 |còn, hãy cỏn, còn nữa; như mà, xong, tuy thế, tuy
+696       |young               |trẻ, trẻ tuổi, thanh niên
+697       |your                |của anh, của chị, của ngài, của mày; của các anh, của các chị, của các ngài, của chúng mày
+698       |yours faithfully    |bạn chân thành      
+699       |yourself            |tự anh, tự chị, chính anh, chính mày, tự mày, tự mình
+700       |youth               |tuổi trẻ, tuổi xuân, tuổi thanh niên, tuổi niên thiếu
+701       |zero                |số không            
+702       |zone                |khu vực, miền, vùng 
+703       |book                |new book            
+704       |about               |new about           
